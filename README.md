@@ -19,4 +19,5 @@ This could be the third heading in repository
 - [ ] https://github.com/
 - [ ] add delight to the experience when all tasks are done\
 hi howre you doing the below text is bold\
-**This text is bold**
+**This text is bold**/
+*this text is italic*
